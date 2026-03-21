@@ -1,0 +1,12 @@
+.cv-entry {
+    margin: 0 0 0 3em;
+    text-indent: -3em;
+}
+
+.cv-indent {
+    padding-left: 1em;
+}
+
+.cv-section {
+    padding: 0 0 1em;
+}
